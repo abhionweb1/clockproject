@@ -1,0 +1,304 @@
+@media only screen and (max-width: 1400px) {
+  .sec {
+    left: 59.5%;
+    top: 16%;
+  }
+  .colon1 {
+    left: 74%;
+    top: 40%;
+  }
+  .colon {
+    left: 54%;
+    top: 40%;
+  }
+  .colons {
+    left: 34%;
+    top: 40%;
+  }
+  .am {
+    left: 78%;
+    top: 29%;
+  }
+  .secs {
+    left: 61.5%;
+    top: 60%;
+  }
+  .leftbox {
+    height: 9vh;
+    width: 38%;
+    margin-left: 3%;
+    top: 67%;
+    padding: 1%;
+  }
+  .setbox {
+    width: 19%;
+    height: 8vh;
+    margin-left: 3%;
+
+    top: 83%;
+  }
+  .rightsetbox {
+    width: 19%;
+    height: 14vh;
+    top: 83%;
+    margin-left: 23%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .right-clock {
+    top: 18%;
+
+    height: 15vh;
+    width: 678px;
+
+    left: 45%;
+    margin-right: 19px;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  .mainbox2 {
+    height: 40%;
+    width: 668px;
+    top: 40%;
+    left: 13%;
+  }
+
+  .rightbox {
+    height: 15vh;
+    width: 678px;
+    top: 156%;
+    left: 1%;
+  }
+  .imgbox {
+    position: absolute;
+    top: 116%;
+    left: 45%;
+  }
+  .leftbox {
+    height: 9vh;
+    width: 668px;
+    left: 14%;
+    top: 87%;
+  }
+  .right-clock {
+    top: 18%;
+
+    height: 15vh;
+    width: 678px;
+
+    left: 16%;
+  }
+
+  .setbox {
+    width: 319px;
+    height: 8vh;
+    margin-left: 3%;
+
+    top: 101%;
+    left: 14%;
+  }
+
+  .rightsetbox {
+    width: 339px;
+    height: 16vh;
+    top: 101%;
+    margin-left: 23%;
+
+    left: 290px;
+  }
+
+  .imgbox {
+    top: 123%;
+    left: 16%;
+  }
+  .mainimg {
+    width: 678px;
+  }
+
+  .rightbox {
+    height: 15vh;
+    width: 678px;
+    top: 186%;
+    left: 16%;
+
+    margin-right: 34px;
+  }
+  .am {
+    left: 78%;
+    top: 29%;
+  }
+  .sec {
+    left: 59.5%;
+    top: 16%;
+  }
+  .secs {
+    left: 60.5%;
+    top: 60%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .mainbox2 {
+    height: 40%;
+    width: 668px;
+    top: 40%;
+    left: 4%;
+  }
+
+  .rightbox {
+    height: 15vh;
+    width: 678px;
+    top: 156%;
+    left: 1%;
+  }
+  .imgbox {
+    position: absolute;
+    top: 116%;
+    left: 45%;
+  }
+  .leftbox {
+    height: 9vh;
+    width: 668px;
+    left: 4%;
+    top: 87%;
+  }
+  .right-clock {
+    top: 18%;
+
+    height: 15vh;
+    width: 678px;
+
+    left: 7%;
+  }
+
+  .setbox {
+    width: 319px;
+    height: 8vh;
+    margin-left: 3%;
+
+    top: 101%;
+    left: 4%;
+  }
+
+  .rightsetbox {
+    width: 339px;
+    height: 16vh;
+    top: 101%;
+    margin-left: 23%;
+
+    left: 190px;
+  }
+
+  .imgbox {
+    top: 123%;
+    left: 4%;
+  }
+  .mainimg {
+    width: 678px;
+  }
+
+  .rightbox {
+    height: 15vh;
+    width: 678px;
+    top: 186%;
+    left: 4%;
+
+    margin-right: 34px;
+  }
+  .am {
+    left: 78%;
+    top: 29%;
+  }
+  .sec {
+    left: 59.5%;
+    top: 16%;
+  }
+  .secs {
+    left: 60.5%;
+    top: 60%;
+  }
+}
+
+@media only screen and (max-width: 650px) {
+  .mainbox2 {
+    height: 40%;
+    width: 100%;
+    top: 40%;
+    left: 1%;
+  }
+
+  .rightbox {
+    height: 15vh;
+    width: 100%;
+    top: 156%;
+    left: 3%;
+  }
+  .imgbox {
+    top: 116%;
+    left: 45%;
+  }
+  .leftbox {
+    height: 9vh;
+    width: 100%;
+
+    top: 87%;
+    left: 1%;
+  }
+  .right-clock {
+    top: 18%;
+
+    background-color: #ffffff;
+    height: 15vh;
+    width: 100%;
+
+    left: 4.5%;
+  }
+
+  .setbox {
+    width: 50%;
+    height: 8vh;
+    margin-left: 3%;
+    border-radius: 4px;
+    top: 101%;
+    left: 1%;
+  }
+
+  .rightsetbox {
+    width: 100%;
+    height: 16vh;
+    top: 101%;
+    margin-left: 23%;
+
+    left: 40%;
+  }
+
+  .imgbox {
+    top: 123%;
+    left: 4.2%;
+  }
+  .mainimg {
+    width: 100%;
+  }
+
+  .rightbox {
+    height: 18vh;
+    width: 50%;
+    top: 186%;
+    left: 4%;
+    border-radius: 12px;
+    margin-right: 34px;
+  }
+  .am {
+    left: 78%;
+    top: 29%;
+  }
+  .sec {
+    left: 59.5%;
+    top: 16%;
+  }
+  .secs {
+    left: 60.5%;
+    top: 60%;
+  }
+}
